@@ -3,10 +3,10 @@ Complete at least TWO definitions in your own words (lab Part 2).
 Then add your name and GitHub username on the last line.
 
 Import:
-  Your definition:
+  bringing existing code or files into an existing repository
 
 Clone:
-  Your definition:
+  create a local copy of an existing repository
 
 Fork:
   Your definition:
@@ -23,4 +23,4 @@ Merge:
 Upstream tracking (git push -u):
   Your definition:
 
-Completed by:
+Completed by: Scott Byers
